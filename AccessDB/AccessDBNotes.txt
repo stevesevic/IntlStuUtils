@@ -1,0 +1,1 @@
+This is a directory to hold Access databases meant to interface with Sunapsis, fsaAtlas, Banner or PeopleSoft systems, and other Access databases for us in the IntlStuUtils project.
